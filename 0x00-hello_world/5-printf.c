@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: This main function print this sentence and a new line after it using printf function.
  * Return: Always 0 (Success)
  */
 int main(void)
